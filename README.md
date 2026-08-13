@@ -1,13 +1,13 @@
 # Sistema de generación de certificados laborales
 
 ## Descripción
-Sistema web desarrollado para la generación automática de certificados laborales para empleados activos y retirados, eliminando procesos manuales y facilitando el acceso a documentación.
+Sistema web desarrollado para la generación automática de certificados laborales para empleados activos y retirados, eliminando procesos manuales y facilitando el acceso a documentación. Creado para la empresa Inserim Aire. 
 
 ## Tecnologías
 - PHP
 - MySQL
 - HTML, CSS
-- Servidor web
+- Servidor web (Javacol)
 
 ## Funcionalidades
 - Selección de tipo de usuario (activo o retirado)
@@ -23,7 +23,7 @@ Sistema web desarrollado para la generación automática de certificados laboral
 
 ## Impacto
 - Eliminación de solicitudes manuales de certificados
-- Acceso autónomo por parte de los empleados
+- Acceso autónomo por parte de los empleados y expleados
 - Mejora en la eficiencia del área administrativa
 
 ## Implementación
