@@ -23,7 +23,7 @@ Sistema web desarrollado para la generación automática de certificados laboral
 
 ## Impacto
 - Eliminación de solicitudes manuales de certificados
-- Acceso autónomo por parte de los empleados y expleados
+- Acceso autónomo por parte de los empleados y exempleados
 - Mejora en la eficiencia del área administrativa
 
 ## Implementación
